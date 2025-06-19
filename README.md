@@ -5,6 +5,8 @@
 # MagicKlaw
 MagicKlaw is a game for iOS using 3D physics to simulate the experience of playing at a claw machine in an arcade. Complete with all the fun, challenge, and rewards you'd expect from the classic arcade experience. The game is made in Unity with C# with custom assets/models created using Blender.
 
+This is just a small code sample from the project; the full project is private.
+
 ## Important Links
 - Link to built game: https://github.com/crystal-g77/MagicKlaw-Build
 
