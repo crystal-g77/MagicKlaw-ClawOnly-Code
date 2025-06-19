@@ -18,7 +18,7 @@ In the game, you play as Albert’s great-grandchild who stumbles upon the encha
 
 ## In-game Screenshots
 
-<img src="https://github.com/user-attachments/assets/fdd046ce-865e-4be9-b40d-b6d06709bee3" height="512"/>
-<img src="https://github.com/user-attachments/assets/b581538a-0a70-41cd-a7dd-8082e3fe6c8e" height="512"/>
-<img src="https://github.com/user-attachments/assets/3a4a1686-d6e8-40c6-964c-69c1f3ddff2e" height="512"/>
-<img src="https://github.com/user-attachments/assets/76bba06d-aada-47d9-addf-b80e40fb47f8" height="512"/>
+<img src="https://github.com/user-attachments/assets/fdd046ce-865e-4be9-b40d-b6d06709bee3" height="500"/>
+<img src="https://github.com/user-attachments/assets/b581538a-0a70-41cd-a7dd-8082e3fe6c8e" height="500"/>
+<img src="https://github.com/user-attachments/assets/3a4a1686-d6e8-40c6-964c-69c1f3ddff2e" height="500"/>
+<img src="https://github.com/user-attachments/assets/76bba06d-aada-47d9-addf-b80e40fb47f8" height="500"/>
